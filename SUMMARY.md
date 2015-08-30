@@ -11,6 +11,7 @@
    * [nginx的supervisor守护配置文件](supervisor_nginx.conf)
    * [php5-fpm的supervisor守护配置文件](supervisor_php5-fpm.conf)
    * [editor.md源码](editor.md-master)
+   * [排除配置文件](.dockerignore)
  
 
 
