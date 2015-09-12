@@ -124,7 +124,7 @@ Copyright (c) 2015 Pandao
 
 ## github
 
-[github](https://github.com/xiongjungit/docker-octopress)
+[github](https://github.com/xiongjungit/docker-editormd)
 
 ## dockerhub
 
