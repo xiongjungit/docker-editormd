@@ -121,3 +121,11 @@ javascript:
 The MIT License.
 
 Copyright (c) 2015 Pandao
+
+## github
+
+[github](https://github.com/xiongjungit/docker-octopress)
+
+## dockerhub
+
+[dockerhub](https://hub.docker.com/r/dockerxman/)
