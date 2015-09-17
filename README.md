@@ -116,16 +116,12 @@ javascript:
 
 [变更日志](https://github.com/pandao/editor.md/blob/master/CHANGE.md)
 
-#### License
+## 代码创建和维护
 
-The MIT License.
+* QQ: 479608797
 
-Copyright (c) 2015 Pandao
+* 邮件: fenyunxx@163.com
 
-## github
+* [github](https://github.com/xiongjungit/docker-editormd)
 
-[github](https://github.com/xiongjungit/docker-editormd)
-
-## dockerhub
-
-[dockerhub](https://hub.docker.com/r/dockerxman/)
+* [dockerhub](https://hub.docker.com/r/dockerxman/)
